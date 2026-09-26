@@ -1,0 +1,7 @@
+Flask==0.12.2
+Jinja2==2.10
+PyYAML==3.13
+requests==2.19.1
+boto3==1.9.42
+stripe==2.60.0
+flask-auth-helper-pro==1.4.0

@@ -1,0 +1,17 @@
+{
+  "name": "shipsafe-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deliberately insecure sample app for the ShipSafe demo scan",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.15",
+    "minimist": "0.0.8",
+    "react-auth-helper-pro": "^1.2.0",
+    "express-session-manager-plus": "^2.0.1"
+  }
+}
